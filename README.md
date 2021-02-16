@@ -42,3 +42,7 @@ Serão avaliados os seguintes critérios:
  * A imagem docker
  * O seu uso do git/github
  * O arquivo de deploy k8s (caso implementado)
+
+## Observações
+
+Ao enviar a solução, você afirma que o trabalho entregue é fruto do seu próprio trabalho, exceto onde explicitamente especificado. Você também afirma que nenhuma licença está sendo violada pela solução implementada e entregue.
