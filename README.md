@@ -10,7 +10,7 @@ Neste desafio, buscamos compreender o seu nível nestas habilidades.
 
 ## Instruções
 
-Clone este repositório e implemente sua solução. Em seguida, dentro do prazo estipulado, envie o link do repositório para nossa avaliação.
+Clone este repositório e implemente sua solução. Em seguida, dentro do prazo estipulado (10 dias), **envie o link do repositório para mateust@novaweb.mobi com cópia para celso@novaweb.mobi junto com seu currículo**.
 
 Você pode cumprir este desafio de três formas:
 
