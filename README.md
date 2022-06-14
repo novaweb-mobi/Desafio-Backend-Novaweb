@@ -14,7 +14,7 @@ Clone este repositório e implemente sua solução. Em seguida, dentro do prazo 
 
 Você pode cumprir este desafio de três formas:
 
-1. Implementar a solução para o problema utilizando a [NovaAPI](https://github.com/novaweb-mobi/NovaAPI) em python, incluindo ao menos uma carga de trabalho do github actions que publica uma imagem docker no github packages do seu repositório, ou;
+1. Implementar a solução para o problema utilizando a [NovaAPI](https://github.com/novaweb-mobi/nova-api) em python, incluindo ao menos uma carga de trabalho do github actions que publica uma imagem docker no github packages do seu repositório, ou;
 2. Implementar a solução para o problema utilizando .NET, incluindo ao menos uma carga de trabalho do github actions que publica uma imagem docker no github packages do seu repositório, ou;
 3. Implementar a solução na linguagem de sua preferência, incluindo ao menos uma carga de trabalho do github actions que publica uma imagem docker no github packages do seu repositório e um arquivo de deploy para um cluster kubernetes.
 
