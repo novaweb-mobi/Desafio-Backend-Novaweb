@@ -28,7 +28,7 @@ Neste desafio, você deverá implementar uma API de contatos que inclua o nome d
 
 ### Requisitos
 
-Para este desafio você deverá usar um banco de dados PostgreSQL. Sugerimos que utilize para testes o serviço [ElephantSQL](elephantsql.com), que disponibiliza um banco de dados gratuito na cloud. A configuração do seu banco de dados deverá ser feito via variáveis de ambiente do contêiner.
+Para este desafio você deverá usar um banco de dados PostgreSQL. Sugerimos que utilize para testes o serviço [ElephantSQL](https://www.elephantsql.com/), que disponibiliza um banco de dados gratuito na cloud. A configuração do seu banco de dados deverá ser feito via variáveis de ambiente do contêiner.
 
 Você deverá disponibilizar uma documentação da API pública. Sugerimos que utilize uma collection do Postman ou do Insomnia.
 
