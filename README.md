@@ -1,10 +1,10 @@
 # Desafio Backend Novaweb
 
-Este desafio é parte do processo seletivo para a vaga "Desenvolvedor backend" da empresa Novaweb. As habilidades esperadas de um desenvolvedor backend são:
+Este desafio é parte do processo seletivo para a vaga "Desenvolvedor back-end" da empresa Nova Web. As habilidades esperadas de um desenvolvedor back-end são:
 
- *  Ser capaz de desenvolver APIs REST utilizando linguagens modernas, em especial C# e/ou Python
- *  Ser capaz de realizar o deploy de APIs utilizando docker e kubernetes
- *  Ser capaz de monitorar e diagnosticar erros em APIs rodando em ambiente k8s na cloud
+ *  Ser capaz de desenvolver APIs REST utilizando linguagens modernas, em especial C# e/ou Python.
+ *  Ser capaz de realizar o deploy de APIs utilizando docker e kubernetes.
+ *  Ser capaz de monitorar e diagnosticar erros em APIs rodando em ambiente k8s na cloud.
 
 Neste desafio, buscamos compreender o seu nível nestas habilidades.
 
